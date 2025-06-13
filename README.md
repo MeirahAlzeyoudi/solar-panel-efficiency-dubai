@@ -17,7 +17,7 @@ Traditional methods for monitoring these facilities—like surveys and manual in
 ---
 
 ## Tools Used
- for spatial visualization and post-processing  
+
 - **ArcGIS Pro (Deep Learning Toolbox)** – for spatial visualization and post-processing and model training and classification  
 - **Python (ArcGIS Python window)** – for automation and preprocessing  
 - **Sentinel-2 L2A imagery** – satellite source (12 bands, 10m resolution)
@@ -64,5 +64,7 @@ Traditional methods for monitoring these facilities—like surveys and manual in
 ---
 
 ## Output Folders
+
 - `/images/` – Final visualizations of solar detection and thermal performance  
+- `/solar_panel_reflectance_analysis_overlay.py/` – Python script used for reflectance index calculation and image overlay
 
